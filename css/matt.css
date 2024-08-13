@@ -1,0 +1,21 @@
+img.cex {
+    max-width: 200px;
+}
+
+div.cex {
+    margin-top: 50px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+  
+.disclaimer {
+    margin-top: 50px;
+    padding: 16px;
+}
+
+div.cex {
+    text-align: center;
+}
